@@ -240,6 +240,7 @@ footer p {
 .comment-author span {
   font-size: 12px;
   font-weight: 700;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .comment-author-icon {
