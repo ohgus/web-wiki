@@ -19,6 +19,8 @@ window.addEventListener('DOMContentLoaded', () => {
       commentEmpty.classList.add('hidden');
     }
 
+    alert('오거스의 위키에 댓글이 등록되었습니다.');
+
     const commentItem = document.createElement('li');
     commentList.appendChild(commentItem);
     const newItem = `
